@@ -8,6 +8,14 @@ _这是一个 Fork 版本，原版本来自[这里](https://github.com/amake/flu
 
 <img width="300" src="https://user-images.githubusercontent.com/25399519/195046717-dfaad10b-0130-49b5-a982-e3d0230d2900.png">
 
+**usage:**
+
+```
+charset_detector:
+    git:
+      url: https://github.com/zsakvo/flutter_charset_detector.git
+```
+
 _The example app; [details](./example/README.md)_
 This plugin uses native libraries derived from the universal charset detection
 libraries created by Mozilla.
