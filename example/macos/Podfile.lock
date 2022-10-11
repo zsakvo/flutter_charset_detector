@@ -1,0 +1,29 @@
+PODS:
+  - charset_detector (0.0.1):
+    - FlutterMacOS
+    - UniversalDetector2
+  - FlutterMacOS (1.0.0)
+  - UniversalDetector2 (2.0.0)
+
+DEPENDENCIES:
+  - charset_detector (from `Flutter/ephemeral/.symlinks/plugins/charset_detector/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+SPEC REPOS:
+  trunk:
+    - UniversalDetector2
+
+EXTERNAL SOURCES:
+  charset_detector:
+    :path: Flutter/ephemeral/.symlinks/plugins/charset_detector/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  charset_detector: db555bf770afcedee68bc95d398b6010f447c9f7
+  FlutterMacOS: ae6af50a8ea7d6103d888583d46bd8328a7e9811
+  UniversalDetector2: 8b226f8a7c8a65a6c449848cb664f92fb83cf81b
+
+PODFILE CHECKSUM: 6eac6b3292e5142cfc23bdeb71848a40ec51c14c
+
+COCOAPODS: 1.11.3
